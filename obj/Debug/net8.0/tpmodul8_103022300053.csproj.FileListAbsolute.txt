@@ -1,0 +1,16 @@
+D:\KONSTRUKSI\tpmodul8_103022300053\bin\Debug\net8.0\covid_config.json
+D:\KONSTRUKSI\tpmodul8_103022300053\bin\Debug\net8.0\tpmodul8_103022300053.exe
+D:\KONSTRUKSI\tpmodul8_103022300053\bin\Debug\net8.0\tpmodul8_103022300053.deps.json
+D:\KONSTRUKSI\tpmodul8_103022300053\bin\Debug\net8.0\tpmodul8_103022300053.runtimeconfig.json
+D:\KONSTRUKSI\tpmodul8_103022300053\bin\Debug\net8.0\tpmodul8_103022300053.dll
+D:\KONSTRUKSI\tpmodul8_103022300053\bin\Debug\net8.0\tpmodul8_103022300053.pdb
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.GeneratedMSBuildEditorConfig.editorconfig
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.AssemblyInfoInputs.cache
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.AssemblyInfo.cs
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.csproj.CoreCompileInputs.cache
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.sourcelink.json
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.dll
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\refint\tpmodul8_103022300053.dll
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.pdb
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\tpmodul8_103022300053.genruntimeconfig.cache
+D:\KONSTRUKSI\tpmodul8_103022300053\obj\Debug\net8.0\ref\tpmodul8_103022300053.dll
